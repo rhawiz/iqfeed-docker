@@ -56,3 +56,4 @@ CMD ["/usr/bin/supervisord"]
 # Expose Ports
 EXPOSE 9101
 EXPOSE 5900
+EXPOSE 5009
