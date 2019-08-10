@@ -55,5 +55,6 @@ ENV WINEPREFIX /root/.wine
 CMD ["/usr/bin/supervisord"]
 # Expose Ports
 EXPOSE 9101
+EXPOSE 9100
 EXPOSE 5900
 EXPOSE 5009
